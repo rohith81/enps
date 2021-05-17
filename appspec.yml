@@ -1,0 +1,47 @@
+version: 0.0
+os: linux
+files:
+  - source: index.html
+    destination: /var/www/mirae
+  - source: ekyc.html
+    destination: /var/www/mirae
+  - source: registration.html
+    destination: /var/www/mirae
+  - source: createfolio
+    destination: /var/www/mirae/createfolio
+  - source: css
+    destination: /var/www/mirae/css
+  - source: dashboard
+    destination: /var/www/mirae/dashboard
+  - source: images
+    destination: /var/www/mirae/images
+  - source: js
+    destination: /var/www/mirae/js
+permissions:
+  - object: /var/www/mirae
+    pattern: "**"
+    owner: www-data
+    group: www-data
+    mode: 744
+    type:
+      - directory
+  - object: /var/www/mirae
+    pattern: "**"
+    owner: www-data
+    group: www-data
+    mode: 644
+    type:
+      - file
+hooks:
+  ApplicationStop:
+    - location: scripts/stop-application.sh
+      timeout: 300
+  BeforeInstall:
+    - location: scripts/before-install.sh
+      timeout: 300
+  ApplicationStart:
+    - location: scripts/start-application.sh
+      timeout: 300
+  ValidateService:
+    - location: scripts/validate-health.sh
+

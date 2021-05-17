@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>user_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Portfolio---V1.1" transform="translate(-17.000000, -186.000000)">
+            <g id="Group-56" transform="translate(17.000000, 186.000000)">
+                <g id="user_icon">
+                    <circle id="Oval" fill="#003974" cx="14" cy="14" r="14"></circle>
+                    <g id="user-(41)" transform="translate(7.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M7.42857143,7.99047619 C2.72380952,7.99047619 0.133333333,10.2190476 0.133333333,14.2571429 C0.133333333,14.5809524 0.380952381,14.8285714 0.704761905,14.8285714 L14.152381,14.8285714 C14.4761905,14.8285714 14.7238095,14.5809524 14.7238095,14.2571429 C14.7238095,10.2190476 12.1333333,7.99047619 7.42857143,7.99047619 Z" id="Shape"></path>
+                        <path d="M7.42857143,8.15238095 C9.52380952,8.15238095 11.2190476,6.3047619 11.2190476,4.03809524 C11.2190476,1.82857143 9.58095238,0.171428571 7.42857143,0.171428571 C5.27619048,0.171428571 3.63809524,1.82857143 3.63809524,4.03809524 C3.63809524,6.3047619 5.33333333,8.15238095 7.42857143,8.15238095 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

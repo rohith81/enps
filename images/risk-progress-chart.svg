@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="153px" height="142px" viewBox="0 0 153 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.33450908,64.1584834 C4.71338179,64.1589123 4.09241812,63.923953 3.61859587,63.4532118 C2.67095137,62.5117295 2.67201229,60.9855022 3.6209664,60.0430022 L59.4919016,4.53487307 C60.4408559,3.59208093 61.9770656,3.59102001 62.9244162,4.53250254 C63.8720607,5.47398486 63.8709998,7.00021213 62.9220457,7.94271222 L7.05111049,63.4508413 C6.57663333,63.9222374 5.95563637,64.1580544 5.33450908,64.1584834 L5.33450908,64.1584834 Z" id="path-1"></path>
+        <filter x="-14.8%" y="-9.9%" width="129.6%" height="129.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.148519449 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20c-Risk-Assessment" transform="translate(-1012.000000, -354.000000)">
+            <g id="Group-19" transform="translate(866.000000, 320.000000)">
+                <g id="Group-26" transform="translate(146.000000, 34.000000)">
+                    <g id="Group-25">
+                        <path d="M12.3353513,34.8566615 C4.53310969,46.8554673 0,61.1788962 0,76.5619469 C0,104.201405 14.6342453,128.420084 36.5711053,141.880417 L76.0190444,74.8958909" id="Shape" fill="#06C776"></path>
+                        <path d="M116.398131,141.899284 C138.352072,128.442723 153,104.214323 153,76.5619469 C153,58.8506517 146.990865,42.5440016 136.901733,29.5726952 L76.5,76.5619469" id="Shape" fill="#EF0A0A"></path>
+                        <path d="M136.901733,29.5726952 C122.904042,11.5762685 101.052819,3.39994699e-12 76.5,3.39994699e-12 C49.6208208,3.39994699e-12 25.9794377,13.8738785 12.3353513,34.8566615 L76.5,76.5619469" id="Path" fill="#FABE2C"></path>
+                    </g>
+                    <g id="Group-12" transform="translate(6.000000, 24.000000)" fill-rule="nonzero">
+                        <g id="efficient">
+                            <ellipse id="Oval" fill="#E1E1E1" cx="68.361646" cy="51.0974941" rx="50.6424549" ry="50.9811133"></ellipse>
+                            <ellipse id="Oval" fill="#F5F5F5" cx="68.361646" cy="51.0974941" rx="43.4078602" ry="43.6981391"></ellipse>
+                            <ellipse id="Oval" fill-opacity="0.240493881" fill="#F58220" cx="68.361646" cy="51.0974941" rx="14.4691894" ry="14.5659484"></ellipse>
+                            <g id="Group-7" transform="translate(47.161851, 55.219634) rotate(-60.000000) translate(-47.161851, -55.219634) translate(13.661851, 21.219634)">
+                                <g id="Path" transform="translate(33.271506, 33.992784) rotate(-84.000000) translate(-33.271506, -33.992784) ">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#5D5360" xlink:href="#path-1"></use>
+                                </g>
+                                <ellipse id="Oval" fill="#003974" cx="47.3368832" cy="50.6045901" rx="7.2345947" ry="7.28297419"></ellipse>
+                                <ellipse id="Oval" fill="#F58220" cx="47.3368832" cy="50.6045901" rx="2.41153157" ry="2.42765806"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

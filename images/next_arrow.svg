@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="9px" viewBox="0 0 7 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>next_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Portfolio---V1.1" transform="translate(-1079.000000, -673.000000)" fill="#F58220" fill-rule="nonzero">
+            <g id="Group-22" transform="translate(686.000000, 665.000000)">
+                <g id="Group-77" transform="translate(0.000000, 3.000000)">
+                    <g id="Group-8-Copy-2" transform="translate(310.000000, 0.000000)">
+                        <g id="Path-19">
+                            <g id="Group-20">
+                                <path d="M83.5289685,6.58363461 C83.206636,6.32349112 83.1562219,5.85130103 83.4163654,5.52896854 C83.6765089,5.20663604 84.148699,5.15622189 84.4710315,5.41636539 L88.7884897,8.90083777 C89.1604478,9.20103235 89.1604478,9.76791242 88.7884897,10.068107 L84.4710315,13.5525794 C84.148699,13.8127229 83.6765089,13.7623087 83.4163654,13.4399762 C83.1562219,13.1176437 83.206636,12.6454537 83.5289685,12.3853102 L87.1232705,9.48447239 L83.5289685,6.58363461 Z" id="next_arrow"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

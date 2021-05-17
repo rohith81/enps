@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="17px" viewBox="0 0 14 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>portfolio_menu_left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBB843" offset="0%"></stop>
+            <stop stop-color="#F58220" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FBB843" offset="0%"></stop>
+            <stop stop-color="#F58220" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Portfolio---V1.1-schemes" transform="translate(-22.000000, -360.000000)" fill-rule="nonzero">
+            <g id="portfolio_menu_left" transform="translate(22.000000, 360.000000)">
+                <path d="M9.41706617,7.02114827 C10.3209302,6.29555959 10.8994633,5.1900654 10.8994633,3.95348837 C10.8994633,1.77351018 9.10187835,0 6.89230769,0 C4.68273704,0 2.88515206,1.77351018 2.88515206,3.95348837 C2.88515206,5.1900654 3.46368515,6.29555959 4.36754921,7.02114827 C1.89826477,7.42502181 0,9.72496367 0,12.4930233 L0,15.7190698 C0,15.9811119 0.2152594,16.1934884 0.480858676,16.1934884 L13.3037567,16.1934884 C13.569356,16.1934884 13.7846154,15.9811119 13.7846154,15.7190698 L13.7846154,12.4930233 C13.7846154,9.72496367 11.8863506,7.42502181 9.41706617,7.02114827 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <polygon id="Path" stroke="#FEF5EC" stroke-width="0.5" fill="#FEF5EC" points="7.37316637 7.90697674 7.37316637 8.85581395 6.41144902 8.85581395 6.41144902 7.90697674"></polygon>
+                <polygon id="Path" stroke="#FEF5EC" stroke-width="0.5" fill="#FEF5EC" points="6.32479428 9.80465116 7.45982111 9.80465116 7.9678533 12.3105451 6.89230769 13.2018096 5.81676208 12.3105451"></polygon>
+                <path d="M3.84686941,3.95348837 C3.84686941,2.29672967 5.21305905,0.948837209 6.89230769,0.948837209 C8.57155633,0.948837209 9.93774597,2.29672967 9.93774597,3.95348837 C9.93774597,5.61024708 8.57155633,6.95813953 6.89230769,6.95813953 C5.21305905,6.95813953 3.84686941,5.61024708 3.84686941,3.95348837 Z" id="Path" fill="url(#linearGradient-2)" opacity="0.329613095"></path>
+            </g>
+        </g>
+    </g>
+</svg>

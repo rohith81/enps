@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="64px" viewBox="0 0 57 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>dashboard-riskprofile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="49" height="56" rx="8"></rect>
+        <filter x="-14.3%" y="-8.9%" width="128.6%" height="125.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.950266078   0 0 0 0 0.667030775   0 0 0 0 0.419199885  0 0 0 0.307883523 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-35.3%" y="-66.7%" width="170.6%" height="233.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.140543051 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M18.0400638,4.92155891 L19.5553846,15.0331301 C19.7668822,16.44443 18.7942501,17.7599673 17.3829501,17.9714649 C17.2561846,17.990462 17.1281811,18 17,18 L17,18 C15.5839185,18 14.4359575,16.8520391 14.4359575,15.4359575 C14.4359575,15.3022294 14.4464194,15.1687063 14.4672475,15.0366101 L16.0633105,4.91401487 C16.1493284,4.36846985 16.6613113,3.99594951 17.2068563,4.0819674 C17.6380818,4.14996015 17.9753644,4.489827 18.0400638,4.92155891 Z" id="path-4"></path>
+        <filter x="-136.0%" y="-71.4%" width="371.9%" height="252.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0790537587 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20c-Risk-Assessment" transform="translate(-1097.000000, -212.000000)">
+            <g id="dashboard-riskprofile" transform="translate(1101.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-19" transform="translate(8.000000, 19.000000)">
+                    <g id="Group-15" transform="translate(0.000000, -0.000000)">
+                        <g id="risk" filter="url(#filter-3)" fill-rule="nonzero">
+                            <g id="Group">
+                                <path d="M22.6801209,11.2618869 C24.2039571,12.7857232 25.043154,14.8118051 25.043154,16.9668616 C25.043154,17.5158986 25.488269,17.9610136 26.037306,17.9610136 L32.9477895,17.9610136 C33.4968265,17.9610136 33.9419415,17.5158986 33.9419415,16.9668616 C33.9419415,12.4348538 32.1770565,8.17405068 28.9724405,4.9694347 L23.3204211,7.97044834 L22.6801209,11.2618869 Z" id="Path" fill="#EF0A0A"></path>
+                                <path d="M28.9725068,4.9694347 C25.7678908,1.76488499 21.507154,0 16.9751462,0 C12.4431384,0 8.18233528,1.76488499 4.97778558,4.9694347 L6.26494737,8.24496686 L11.2701053,11.2618869 C12.7940078,9.73805068 14.8200897,8.89878752 16.9751462,8.89878752 C19.1302027,8.89878752 21.1562183,9.73805068 22.6801871,11.2618869 L28.9725068,4.9694347 Z" id="Path" fill="#FABE2C"></path>
+                                <path d="M4.97778558,4.9694347 C1.77316959,8.17405068 0.00828460039,12.4348538 0.00828460039,16.9668616 C0.00828460039,17.5158986 0.45339961,17.9610136 1.00243665,17.9610136 L7.91292008,17.9610136 C8.46195712,17.9610136 8.90707212,17.5158986 8.90707212,16.9668616 C8.90707212,14.8117388 9.74626901,12.7857232 11.2701053,11.2618869 L4.97778558,4.9694347 Z" id="Path" fill="#06C776"></path>
+                                <path d="M17.0762183,8.89998051 C19.1934308,8.92582846 21.180078,9.76191033 22.6801209,11.2618869 L28.9724405,4.96950097 C25.7918168,1.78874464 21.5704483,0.0273060429 17.0762183,0.00125925926 L17.0762183,8.89998051 Z" id="Path" fill="#FABE2C"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <path stroke="#ECEFF4" stroke-width="0.1" d="M17.990616,4.92896917 C17.9291516,4.51882386 17.6087331,4.19595034 17.1990689,4.13135723 C16.6808011,4.04964024 16.1944173,4.40353456 16.1127003,4.92180233 L14.5166373,15.0443975 C14.4962154,15.1739178 14.4859575,15.3048372 14.4859575,15.4359575 C14.4859575,16.8244249 15.6115327,17.95 17,17.95 C17.1257008,17.95 17.2512273,17.9406465 17.3755399,17.922017 C18.7595306,17.7146121 19.7133418,16.424531 19.5059368,15.0405403 L17.990616,4.92896917 Z" stroke-linejoin="square" fill="#003974" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <circle id="Oval" fill="#DBE0E9" cx="17" cy="15" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

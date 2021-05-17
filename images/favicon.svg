@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 40.7399819 9.33970763 0.329022991 22.8260609 0.329022991 25.9732933 23.3911187 35.926215 0.329022991 49.8164966 0.329022991 48.0720616 40.7399819 37.9175005 40.7399819 39.6477492 12.8061741 27.6024607 40.7399819 19.5929903 40.7399819 16.2210416 12.8061741 10.1057261 40.7399819"></polygon>
+    </defs>
+    <g id="Favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-10-Copy" transform="translate(0.000000, 4.670977)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F78200" xlink:href="#path-1"></use>
+            <polygon id="Path-10" fill="#003974" mask="url(#mask-2)" points="6.06978547 14.2695368 50 6.47458949 50 -1 7.08491326 -1"></polygon>
+        </g>
+    </g>
+</svg>
